@@ -10,4 +10,4 @@ Selenium script to solve online rubik's cube
 
 # DEMO:
 
-[![DEMO](https://img.youtube.com/vi/t2o-90eLmXg/0.jpg)](https://www.youtube.com/watch?v=2o-90eLmXg "Selenium rubik's cube solver")
+[![DEMO](https://img.youtube.com/vi/t2o-90eLmXg/0.jpg)](https://www.youtube.com/watch?v=t2o-90eLmXg "Selenium rubik's cube solver")
